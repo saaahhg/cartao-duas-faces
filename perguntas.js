@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Ciência',
+    'O que é fotossíntese?',
+    'A fotossíntese é o processo pelo qual as plantas convertem luz solar em energia'
+)
+
+criaCartao(
+    'Matemática',
+    ' O que é um número primo?',
+    'é um número maior que 1 que tem apenas dois divisores: 1 e ele mesmo.'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'O que é um bioma?',
+    ' Um bioma é uma grande região ecológica com características climáticas e vegetais semelhantes.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
-)
-
-criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Literatura',
+    ' O que é um soneto?',
+    ' Um soneto é uma forma poética composta por 14 versos, geralmente divididos em dois quartetos e dois tercetos.'
 )
